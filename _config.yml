@@ -3,8 +3,8 @@ title:        Static Organization Registry
 
 # Urls
 baseurl:      "/registry-org"
-repository:   "singularityhub/registry-org"
-repo:         "https://www.github.com/singularityhub/registry-org"
+repository:   "hasnae-ag/registry-org"
+repo:         "https://www.github.com/hasnae-ag/registry-org"
 
 # People and Social
 maintainer: "@vsoch"
