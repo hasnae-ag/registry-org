@@ -7,8 +7,8 @@ repository:   "hasnae-ag/registry-org"
 repo:         "https://www.github.com/hasnae-ag/registry-org"
 
 # People and Social
-maintainer: "@vsoch"
-twitter: vsoch
+maintainer: "@hasnae-ag"
+twitter: hasnae-ag
 
 # Registry Metadata
 keywords: "singularity, containers"
